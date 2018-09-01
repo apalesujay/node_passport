@@ -1,4 +1,4 @@
-/node_modules
-/config/mongoConfig.js
-/config/oauth-config.js
-/config/sessionConfig.js
+node_modules
+config/mongoConfig.js
+config/oauth-config.js
+config/sessionConfig.js
